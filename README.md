@@ -15,8 +15,14 @@ Professor: [Leonardo Ataide Minora](https://github.com/leonardo-minora)
 
 ## Log do projeto
 | Data       | Descrição                       |
+
+| 2023/05/01 | Atividade 01 - Componentes      |
+
 | 2023/05/25 | Segundo fork + entendendo listas|
+
 | 2023/05/08 | Criado aplicação web com react  |
+
 | 2023/04/10 | Projeto js inicializado         |
+
 | 2023/03/30 | Projeto HTML publicado          |
 
